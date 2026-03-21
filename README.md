@@ -25,7 +25,7 @@ Diagrama UML: se modifico la organización de los FK y algunas direcciones de la
 <br>
 3FN: cada atributo de cada entidad depende de su propia PK, por ejemplo, Pais_origen depende de DESARROLLADOR  y el patron se repite por el diagrama. 
 <br><br>
-**Diccionarios**
+**DICCIONARIOS**
 <br><br>
 ![alt text](https://github.com/FRSR23/FDB-VIDEOJUEGOS/blob/main/DICCIONARIO_PART_1.jpg)
 <br><br>

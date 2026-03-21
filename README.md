@@ -7,3 +7,13 @@ DIAGRAMA DE MODELO ENTIDAD-RELACIÓN
 
 DIAGRAMA UML
 ![alt text](https://github.com/FRSR23/FDB-VIDEOJUEGOS/blob/main/Diagrama%20de%20UML.png)
+
+
+**Cambios**
+Diagrama E-R: se modificaron los errores en la cardinalidad, se agregaron propiedades como los ID a las entidades.
+Diagrama UML: se modifico la organización de los FK y algunas direcciones de las tablas para que tuviera mas coherencia. 
+
+**Formas Normales Aplicadas**
+1FN: se aplico para tener datos atómicos (genero, plataforma, desarrollador)
+2FN: se aplico para separar las entidades y evitar que toda la información vaya a la entidad de videojuego 
+3FN: cada atributo de cada entidad depende de su propia PK, por ejemplo, Pais_origen depende de DESARROLLADOR  y el patron se repite por el diagrama. 

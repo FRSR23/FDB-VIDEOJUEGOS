@@ -24,3 +24,9 @@ Diagrama UML: se modifico la organización de los FK y algunas direcciones de la
 2FN: se aplico para separar las entidades y evitar que toda la información vaya a la entidad de videojuego.
 <br>
 3FN: cada atributo de cada entidad depende de su propia PK, por ejemplo, Pais_origen depende de DESARROLLADOR  y el patron se repite por el diagrama. 
+<br>
+**Diccionarios**
+<br><br>
+![alt text](https://github.com/FRSR23/FDB-VIDEOJUEGOS/blob/main/DICCIONARIO_PART_1.jpg)
+<br><br>
+![alt text](https://github.com/FRSR23/FDB-VIDEOJUEGOS/blob/main/DICCIONARIOS_PART_2.jpg)

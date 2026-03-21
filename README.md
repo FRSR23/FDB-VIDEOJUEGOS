@@ -22,5 +22,5 @@ Diagrama UML: se modifico la organización de los FK y algunas direcciones de la
 1FN: se aplico para tener datos atómicos (genero, plataforma, desarrollador)
 <br>
 2FN: se aplico para separar las entidades y evitar que toda la información vaya a la entidad de videojuego
-<br>
+<br><br>
 3FN: cada atributo de cada entidad depende de su propia PK, por ejemplo, Pais_origen depende de DESARROLLADOR  y el patron se repite por el diagrama. 
